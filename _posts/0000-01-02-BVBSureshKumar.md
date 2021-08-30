@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Sky is in blue colour" - Sursh kumar
 Use the left arrow to go back!
